@@ -60,7 +60,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the repository
 ```
-git clone https://github.com/brndnwjy/tikitoko-admin
+git clone https://github.com/alfatpololo/tikitoko-admin
 ```
 - Go to repository folder
 ```
